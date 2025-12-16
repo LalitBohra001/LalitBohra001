@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lalit Bohra <br> [3DExpirence Professional] & [Programmer](#programmer)(#Azure-Cloud-Engineer) (#Java J2EE-Professional) & [Programmer](#programmer)
+# Hi, I'm Lalit Bohra <br> [3DExpirence-Professional](#3DExpirence-Professional) & [Java Developer](#JavaDeveloper),  [Azure-Cloud-Engineer](#Azure-Cloud-Engineer),[ Java/J2EE Professional](#J2EEProfessional) 
 
 </div>
 
